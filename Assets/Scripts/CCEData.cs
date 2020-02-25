@@ -9,7 +9,7 @@ using System.IO;
 public class CCEData : GeneralDataManagement
 {
     public int numRepetition = 1;
-
+    // some chane
     public System.Random rnd;
 
     public int subId;
